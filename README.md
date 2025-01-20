@@ -1,5 +1,3 @@
-# README for Eduardo Saavedra's GitHub Repository
-
 Welcome to my personal GitHub repository! 🚀
 
 ## 👋 About Me
