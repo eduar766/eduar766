@@ -39,6 +39,10 @@ Hi there! I'm **Eduardo Saavedra**, a passionate **Software Engineer** and **Tec
   <img width="12" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />     
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img width="12" />
 </div>
 <!--
 **eduar766/eduar766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
